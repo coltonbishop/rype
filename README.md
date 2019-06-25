@@ -1,6 +1,8 @@
-<img src="resources/intro.png" width = "330px" />
+# Rype 
 
 Rype is a smart kitchen assistant iOS application that helps you buy, cook, and eat as sustainably as possible. By tracking your purchasing and consumption habits, Rype return a list of recipes (from over 200,000 recipes scraped from blogs and cooking sites) that you can make using the ingredients you have. Rype knows the average expiration dates of the food you add to your virtual pantry and learns what foods you're most likely to waste, which allows it to sustainably prioritize the recipes it suggests to minimize your food waste and help you make smarter shopping decisions. <br>
+
+<img src="resources/intro.png" width = "330px" />
 
 # Track the Ingredients in your Pantry
 
