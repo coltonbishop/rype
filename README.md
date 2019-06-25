@@ -3,17 +3,17 @@ Rype iOS Application</br>
 
 # Images
 </br>
-#### Add
+**Add**
 <img src="resources/add.gif" width = "330px" />
-#### Animated
+**Animated**
 <img src="resources/animated.gif" width = "330px" />
-#### Photo
+**Photo**
 <img src="resources/photo.gif" width = "330px" />
-#### Recipes
+**Recipes**
 <img src="resources/recipes.gif" width = "330px" />
-#### Remove
+**Remove**
 <img src="resources/remove.gif" width = "330px" />
-#### Restrict
+**Restrict**
 <img src="resources/restrict.gif" width = "330px" />
 
 
