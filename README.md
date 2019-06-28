@@ -3,10 +3,23 @@
 Rype is a smart kitchen assistant iOS application that helps you buy, cook, and eat as sustainably as possible. By tracking your purchasing and consumption habits, Rype return a list of recipes (from over 200,000 recipes scraped from blogs and cooking sites) that you can make using the ingredients you have. Rype knows the average expiration dates of the food you add to your virtual pantry and learns what foods you're most likely to waste, which allows it to sustainably prioritize the recipes it suggests to minimize your food waste and help you make smarter shopping decisions. <br>
 
 <p align="center">
-<img src="resources/intro.png" width = "330px" />
+<img src="resources/intro.png" width = "500px" />
 </p>
 
-# Track the Ingredients in your Pantry
+## Get Started with Rype
+
+Follow the instruction beow to build a copy of the project on your local machine for development and testing purposes.
+
+### Dependencies and Requirements
+
+Xcode 8.0 or later
+iOS 9.3 SDK or later
+
+Download the project and open in Xcode to run a demo on a simulated iOS device. Explore the functionalities below! 
+
+# Functionalities
+
+## Track the Ingredients in your Pantry
 
 Manually add newly purchased ingredients to your virtual pantry with a few clicks<br>
 
@@ -20,7 +33,7 @@ When you’ve used up an ingredient, delete it from your virtual pantry and deci
 
 <img src="resources/remove.gif" width = "330px" />
 
-# Determine the most sustainable meals to make! 
+## Determine the most sustainable meals to make! 
 
 Rype knows the lifespan of each ingredient you add to your pantry. It observes your habits over time and gradually understands how and when you use (or waste) each ingredient. 
 
@@ -30,7 +43,7 @@ When it’s time for a meal, let Rype tell you what recipes you can make using t
 
 The recipes Rype returns are sustainably prioritized to use the ingredients in your pantry that are expiring soonest, as well as the ingredients that you personally are most at risk of wasting. 
 
-# Make it personal
+## Make it personal
 
 Customize your dietary restrictions to filter the recipes Rype offers you.
 
