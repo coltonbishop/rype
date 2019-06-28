@@ -23,15 +23,21 @@ Download the project and open in Xcode to run a demo on a simulated iOS device. 
 
 Manually add newly purchased ingredients to your virtual pantry with a few clicks<br>
 
+<p align="center">
 <img src="resources/add.gif" width = "330px" />
+</p>
 
 To save time, scan your receipt or shopping list and let our optical character recognition software add your ingredients automatically. <br>
 
+<p align="center">
 <img src="resources/photo.gif" width = "330px" />
+</p>
 
 When you’ve used up an ingredient, delete it from your virtual pantry and decide whether to add it to your shopping list.<br>
 
+<p align="center">
 <img src="resources/remove.gif" width = "330px" />
+</p>
 
 ## Determine the most sustainable meals to make! 
 
@@ -39,7 +45,9 @@ Rype knows the lifespan of each ingredient you add to your pantry. It observes y
 
 When it’s time for a meal, let Rype tell you what recipes you can make using the ingredients you have (from a selection of over 200,000 recipes scraped from cooking websites and blogs)! 
 
+<p align="center">
 <img src="resources/recipes.gif" width = "330px" />
+</p>
 
 The recipes Rype returns are sustainably prioritized to use the ingredients in your pantry that are expiring soonest, as well as the ingredients that you personally are most at risk of wasting. 
 
@@ -47,9 +55,14 @@ The recipes Rype returns are sustainably prioritized to use the ingredients in y
 
 Customize your dietary restrictions to filter the recipes Rype offers you.
 
+<p align="center">
 <img src="resources/restrict.gif" width = "330px" />
+</p>
 
 You can also choose to have Rype send you notifications if ingredients close to their expiration date. 
 
+<p align="center">
 <img src="resources/animated.gif" width = "330px" />
+</p>
+
 
